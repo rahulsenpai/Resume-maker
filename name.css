@@ -1,0 +1,61 @@
+p { font-size: 24px; }
+li { font-size: 24px; }
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 ,h3,h4{
+    margin: 0;
+}
+
+.container {
+    margin: 30px;
+}
+
+section {
+    border-bottom: 2px solid #232627;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+}
+
+
+
+section h2 {
+    margin-bottom: 10px;
+} 
+
+section ul {
+    margin: 0;
+    padding: 0;
+    margin-left: 1rem;
+    list-style-type: disc;
+}
+
+section ul li {
+    margin-bottom: 5px;
+}
+
+section p {
+    margin: 0;
+}
+
+
+.head{
+   
+    background: #232627;
+    height: 16rem;
+  
+   
+}
+
+.head .text {
+    color: ghostwhite;
+    padding: 5rem;
+    font-style: italic ;
+    margin:1.5rem;     
+    font-size: 25px;
+
+}
